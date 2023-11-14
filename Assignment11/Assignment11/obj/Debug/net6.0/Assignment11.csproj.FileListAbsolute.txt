@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\refint\Assignment11.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment11\Assignment11\obj\Debug\net6.0\ref\Assignment11.dll
